@@ -1,0 +1,31 @@
+{
+    "featuredPost": {
+        "id": 0,
+        "title": "C# Is Dead",
+        "content": "People have told me that C# is on its decline because of the upcoming artificial intelligence wave, which is mainly used by Python. This is the reason more and more people are switching to Python, to keep up with the hype.",
+        "image": "/images/mock-blog/cs.png"
+    },
+    "blogPosts": [
+        {
+            "id": 1,
+            "title": "WTF is the Python MVC Pattern",
+            "content": "In the ever-evolving landscape of software development, understanding design patterns is crucial for building scalable, maintainable, and efficient applications. One such pattern that has gained...",
+            "excerpt": "In the ever-evolving landscape of software development, understanding design patterns is crucial for building scalable, maintainable, and efficient applications...",
+            "image": "/images/mock-blog/py.png"
+        },
+        {
+            "id": 2,
+            "title": "Why 500 LeetCode Problems Changed My Life",
+            "content": "If you are a developer, we all know how vital Data Structures and Algorithms (DSA) are for cracking the first round of interviews for almost 90%...",
+            "excerpt": "If you are a developer, we all know how vital Data Structures and Algorithms (DSA) are for cracking the first round of interviews for almost 90%...",
+            "image": "/images/mock-blog/stat.png"
+        },
+        {
+            "id": 3,
+            "title": "Why I'm Switching from GO to Python",
+            "content": "Hey everyone! So, after spending years writing Go code (and loving it, honestly), I've decided it's time for a change...",
+            "excerpt": "Hey everyone! So, after spending years writing Go code (and loving it, honestly), I've decided it's time for a change...",
+            "image": "/images/mock-blog/go.png"
+        }
+    ]
+}
